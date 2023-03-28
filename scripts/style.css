@@ -1,0 +1,9 @@
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between
+}
+
+.right-navbar {
+    display: flex
+    
+}
